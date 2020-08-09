@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github Learning with Beardy Banner](Github_Banner.png)
+![Github Learning with Beardy Banner](https://raw.githubusercontent.com/LearningWithBeardy/LearningWithBeardy/master/Github_Banner.png)
 
 
 
