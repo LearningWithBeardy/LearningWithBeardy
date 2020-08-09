@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ![Github Learning with Beardy Banner](https://raw.githubusercontent.com/LearningWithBeardy/LearningWithBeardy/master/Github_Banner.png)
+
+
+
+Avatar icon by Darius Dan @ [flaticon](http://flaticon.com)
